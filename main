@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 ae6839469e29186184c27eed7bcdfe6540fd1e73 Ayan Khan <ayankhanbebea@gmail.com> 1792773784 +0530	commit (initial): feat: complete personal portfolio with secure chatbot, search filter, and five coursework projects
+ae6839469e29186184c27eed7bcdfe6540fd1e73 db2bc1b87c9e44157fbc88e0625e7b5536ed6de9 Ayan Khan <ayankhanbebea@gmail.com> 1792773870 +0530	commit: chore: add package.json with ES module support
+db2bc1b87c9e44157fbc88e0625e7b5536ed6de9 89387dbf092c4a74558a2e1a8662e46d3ab731c4 Ayan Khan <ayankhanbebea@gmail.com> 1792904310 +0530	commit: fix: update portfolio personal info, skills, projects, and secure Groq chatbot
+89387dbf092c4a74558a2e1a8662e46d3ab731c4 a75de7cb0aead6800cb333a55dd07df58cf50cd5 Ayan Khan <ayankhanbebea@gmail.com> 1792904680 +0530	commit: docs: add verified production Vercel URL to README
+a75de7cb0aead6800cb333a55dd07df58cf50cd5 8e54a5c6d81176b7d6665621c553aa21aff0f855 Ayan Khan <ayankhanbebea@gmail.com> 1792905474 +0530	commit: fix(projects): restore original portfolio projects (KRISHIDHENU, ArriveAI, PDFAI Hub, Traffic Escape)
+8e54a5c6d81176b7d6665621c553aa21aff0f855 ae44f0fe6a0d60444ded1c9be63f65e47c12c588 Ayan Khan <ayankhanbebea@gmail.com> 1792905538 +0530	commit: fix(chat): update suggestion chips to reflect restored projects
